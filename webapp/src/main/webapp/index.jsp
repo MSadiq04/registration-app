@@ -35,3 +35,19 @@
    <h1> See You Again </h1>
   
 </form>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction - MOHAMMAD AMIN SADIQ</title>
+</head>
+<body>
+    <h1>Introduction - MOHAMMAD AMIN SADIQ</h1>
+    <p>Hello, my name is MOHAMMAD AMIN SADIQ and I belong to Jharkhand, India.</p>
+    <p>I am learning DevOps methodology and Cloud Concepts.</p>
+    <p>I am passionate about Technologies.</p>
+</body>
+</html>
